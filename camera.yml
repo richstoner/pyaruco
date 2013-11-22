@@ -1,4 +1,4 @@
-%YAML:1.0
+# YAML
 calibration_time: "10/23/13 12:16:00"
 nframes: 10
 image_width: 640
@@ -11,7 +11,7 @@ camera_matrix: !!opencv-matrix
    rows: 3
    cols: 3
    dt: d
-   data: [ 7.8884977404650726e+002, 0., 2.5254246839063737e+002, 0.,
+   data: [ 7.8884977404650726e002, 0., 2.5254246839063737e+002, 0.,
        8.1462550495097753e+002, 2.8740298448791407e+002, 0., 0., 1. ]
 distortion_coefficients: !!opencv-matrix
    rows: 5
